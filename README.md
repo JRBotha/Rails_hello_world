@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# Ruby on Rails Tutorial
+This is the first hello world tutorial for the rugby on rails course which is part of the odin project
